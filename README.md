@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, am 0xbrian</h1>
+<h1 align="center">Hi 👋, am brian0day </h1>
 <h3 align="center">Am a Ethical Hacker | Linux Enthusiast | Cyber Security Trainer</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zer0dayacademy" alt="zer0dayacademy" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/0xbrian" target="blank"><img src="https://img.shields.io/twitter/follow/0xbrian?logo=twitter&style=for-the-badge" alt="0xbrian" /></a> </p>
 
